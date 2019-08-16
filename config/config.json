@@ -1,0 +1,25 @@
+{
+  "development": {
+    "username": "eemwfjjb",
+    "password": 	"6nBSyyXQGuFG7rN82JAGGDhMG6j4GrOg",
+    "database": "eemwfjjb",
+    "host": "raja.db.elephantsql.com",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  }
+}
